@@ -142,23 +142,14 @@ $$
 \Phi(\rho, \theta) = \sum C_i Z_n^m(\rho, \theta)
 $$
 
-* Spherical Aberration ($Z_4^0$):
-$$
-\sqrt{5}(6\rho^4 - 6\rho^2 + 1)
-$$
-* Astigmatism ($Z_2^2$):
-$$
-\sqrt{6}\rho^2 \cos(2\theta)
-$$
-* Coma ($Z_3^1$):
-$$
-\sqrt{8}(3\rho^3 - 2\rho)\cos(\theta)
-$$
+* Spherical Aberration ($Z_4^0$): $\sqrt{5}(6\rho^4 - 6\rho^2 + 1)$
+* Astigmatism ($Z_2^2$): $\sqrt{6}\rho^2 \cos(2\theta)$
+* Coma ($Z_3^1$): $\sqrt{8}(3\rho^3 - 2\rho)\cos(\theta)$
 
 Phase optimization and multi-trap structural configurations are resolved iteratively using the Gerchberg-Saxton Fourier transform loop constraint:
 
 $$
-A_{focal} e^{i\phi_{focal}} = \mathcal{F} \left\{ A_{slm} e^{i\phi_{slm}} \right{} \}
+A_{focal} e^{i\phi_{focal}} = \mathcal{F} \left[ A_{slm} e^{i\phi_{slm}} \right]
 $$
 
 ---
