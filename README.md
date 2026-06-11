@@ -24,7 +24,7 @@ An advanced, high-fidelity numerical simulation framework designed to model, vis
 *Figure 2: Live stochastic trajectory tracking of trapped micro-particles overlaid with the exact analytical Boltzmann distribution profile.*
 
 ### Module 3: Wavefront Aberration & Adaptive Optics Correction
-![SLM Mode](assets/slm_shot.png)
+![SLM Mode](assets/SLM_shot.png)
 *Figure 3: Spatial Light Modulator (SLM) phase mask generation via the Gerchberg-Saxton algorithm under induced Zernike aberrations.*
 
 ### Module 4: Extreme Photothermal Cavitation Limits
