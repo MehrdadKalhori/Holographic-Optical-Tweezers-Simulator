@@ -1,5 +1,3 @@
-
-```markdown
 # Holographic Optical Tweezers Studio & Photothermal Langevin Dynamics Simulator 🔬
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
@@ -249,6 +247,3 @@ Crafted by **Mehrdad Y. Kalhori**, straight out of the Wild West of Lorestan, Ir
 
 *For academic inquiries, research collaborations, or PhD recruitment opportunities, please reach out via [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/mehrdad-kalhori-400a3234a).*
 
-```
-
-```
